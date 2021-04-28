@@ -4,6 +4,6 @@ Open your Terminal, access to this folder and write:
 git init
 git add .
 git commit -m "my commit"
-git remote set-url origin git@github.com:username/repo.git
+git remote add origin <remote repository URL>
 git push origin master
 ```
